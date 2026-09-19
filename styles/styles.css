@@ -31,3 +31,26 @@ footer {
     border-top: 1px solid #000;
     text-align: center;
 }
+
+nav {
+    background-color: #005599;
+    padding: 15px;
+}
+
+nav a {
+    color: #ffffff;
+    padding: 10px;
+    display: block;
+}
+
+h1 {
+    color: #222222;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 2px solid #000000;
+    padding: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
