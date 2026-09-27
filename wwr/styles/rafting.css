@@ -91,11 +91,15 @@ header nav a {
     margin: 0 10px;
 }
 
+footer {
+    background-color: var(--background-light);
+}
+
 footer nav a img {
     width: 3rem;
 }
 
 main section h2 {
     background-color: var(--accent1-color);
-    color: #fff;
+    color: var(--secondary-color);
 }
