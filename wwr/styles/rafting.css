@@ -103,3 +103,20 @@ main section h2 {
     background-color: var(--accent1-color);
     color: var(--secondary-color);
 }
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+header img {
+    width: 100px;
+}
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
